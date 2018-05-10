@@ -53,7 +53,7 @@ namespace GradeBook.UserInterfaces
             }
             else
             {
-                Console.WriteLine("{0} is not supported typr of gradebook, please try again", type);
+                Console.WriteLine("{0} is not a supported typr of gradebook, please try again", type);
                 return;
             }
 
